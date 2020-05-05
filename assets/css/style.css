@@ -4,8 +4,8 @@
 .left {
     float: left;
 }
-.right {
-    float: right;
+.right {float: right;
+   
 }
 .clear {
     clear: both;
@@ -13,3 +13,8 @@
 #reset-container, h1 {
     text-align: center;
 }
+html {background-image: url(https://bartramsgarden.org/wp-content/uploads/space-jam-soundtrack-lede-900x500.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color:gold;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
