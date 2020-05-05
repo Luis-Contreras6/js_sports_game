@@ -1,3 +1,12 @@
+/*plz dont sue me for using the Space Jam logo*/
+html {  background: url(https://wallpaperaccess.com/full/1521893.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
 .hide {
     display: none;
 }
@@ -10,11 +19,12 @@
 .clear {
     clear: both;
 }
-#reset-container, h1 {
+h1 {color: lawngreen;
     text-align: center;
 }
-html {background-image: url(https://bartramsgarden.org/wp-content/uploads/space-jam-soundtrack-lede-900x500.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-color:gold;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+#reset-container {
+    color:white;
+    text-align: center;
+}
+
