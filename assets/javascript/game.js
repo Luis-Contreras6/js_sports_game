@@ -37,3 +37,4 @@ reset.addEventListener("click", function () {
     teamTwoNumShots.innerHTML = 0;
     teamTwoNumGoals.innerHTML = 0;
 })
+

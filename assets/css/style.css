@@ -28,3 +28,8 @@ h1 {color: lawngreen;
     text-align: center;
 }
 
+#space {
+    position: relative;
+    top: 270px;
+    left: 500px
+    ;}
