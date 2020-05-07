@@ -31,10 +31,9 @@ teamTwoShoot.addEventListener("click", function () {
 
 reset.addEventListener("click", function () {
     let newNumResets = Number(numResets.innerHTML) + 1;
-
+    numResets.innerHTML = newNumResets;
     teamOneNumShots.innerHTML = 0;
     teamOneNumGoals.innerHTML = 0;
     teamTwoNumShots.innerHTML = 0;
     teamTwoNumGoals.innerHTML = 0;
-    numResets.innerHTML = newNumResets;
 })
